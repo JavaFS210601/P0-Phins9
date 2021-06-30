@@ -1,0 +1,5 @@
+2021-06-30 08:20:56 INFO  Menu:71 - add method ran and added a user
+2021-06-30 08:21:34 INFO  Menu:99 - withdraw method ran and withdrew money
+2021-06-30 08:21:46 INFO  Menu:125 - deposit method ran and depositted money
+2021-06-30 08:22:12 INFO  Menu:71 - add method ran and added a user
+2021-06-30 08:22:21 INFO  Menu:171 - delete method ran and deleted a user
